@@ -102,7 +102,7 @@ Ensure assets are correctly placed in folders.
 - Add more scroll sections
 - Add 3D animations using Three.js
 - Improve performance optimization
-- Add sound effects
+  
 
 ---
 
